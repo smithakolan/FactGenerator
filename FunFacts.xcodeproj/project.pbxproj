@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		87134EAD22A329E3005A23A7 /* FactProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87134EAC22A329E3005A23A7 /* FactProvider.swift */; };
+		87134EAF22A340B1005A23A7 /* BackgroundColourProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87134EAE22A340B1005A23A7 /* BackgroundColourProvider.swift */; };
 		87ECEB7C22A18C8500B4578B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87ECEB7B22A18C8500B4578B /* AppDelegate.swift */; };
 		87ECEB7E22A18C8500B4578B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87ECEB7D22A18C8500B4578B /* ViewController.swift */; };
 		87ECEB8122A18C8500B4578B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87ECEB7F22A18C8500B4578B /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		87134EAC22A329E3005A23A7 /* FactProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactProvider.swift; sourceTree = "<group>"; };
+		87134EAE22A340B1005A23A7 /* BackgroundColourProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundColourProvider.swift; sourceTree = "<group>"; };
 		87ECEB7822A18C8500B4578B /* FunFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87ECEB7B22A18C8500B4578B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		87ECEB7D22A18C8500B4578B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			children = (
 				87ECEB7B22A18C8500B4578B /* AppDelegate.swift */,
 				87ECEB7D22A18C8500B4578B /* ViewController.swift */,
+				87134EAE22A340B1005A23A7 /* BackgroundColourProvider.swift */,
 				87134EAC22A329E3005A23A7 /* FactProvider.swift */,
 				87ECEB7F22A18C8500B4578B /* Main.storyboard */,
 				87ECEB8222A18C8800B4578B /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87134EAF22A340B1005A23A7 /* BackgroundColourProvider.swift in Sources */,
 				87ECEB7E22A18C8500B4578B /* ViewController.swift in Sources */,
 				87ECEB7C22A18C8500B4578B /* AppDelegate.swift in Sources */,
 				87134EAD22A329E3005A23A7 /* FactProvider.swift in Sources */,
